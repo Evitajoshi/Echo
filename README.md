@@ -30,6 +30,8 @@ The project combines my interests in software development, HCI, and UI/UX design
 
 The interface and prototype were designed in Figma before being developed into an interactive application.
 
+🎨 [View the Echo Figma Project](https://www.figma.com/design/afwSZw42WQXyzEtVSMsyni/ECHO)
+
 ## Running the Project
 
 Install the dependencies:
