@@ -1,11 +1,42 @@
+# Echo 🎧
 
-  # ECHO
+Echo is an interactive sound-journaling application designed to help users capture and revisit everyday moments through sound.
 
-  This is a code bundle for ECHO. The original project is available at https://www.figma.com/design/afwSZw42WQXyzEtVSMsyni/ECHO.
+The project explores how technology can encourage people to become more aware of their sonic environment and preserve small audio moments that might otherwise go unnoticed.
 
-  ## Running the code
+## Features
 
-  Run `npm i` to install the dependencies.
+- Record short audio moments
+- Save recordings to a personal archive
+- Browse previous sound entries
+- Choose whether recordings are private or shared
+- Revisit everyday experiences through sound
 
-  Run `npm run dev` to start the development server.
+## Why I Built Echo
+
+I developed Echo while exploring human-computer interaction and the role sound can play in digital journaling. Rather than relying on photos or written entries, Echo uses audio as a way of documenting everyday experiences.
+
+The project combines my interests in software development, HCI, and UI/UX design.
+
+## Technologies
+
+- TypeScript
+- HTML
+- CSS
+- Vite
+- Figma
+
+## Design
+
+The interface and prototype were designed in Figma before being developed into an interactive application.
+
+## Running the Project
+
+Install the dependencies:
+
+`npm install`
+
+Start the development server:
+
+`npm run dev`
   
